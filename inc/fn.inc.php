@@ -1,1 +1,3 @@
 <?php
+function f1(){
+}
